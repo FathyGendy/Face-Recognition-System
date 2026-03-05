@@ -1,0 +1,7 @@
+venv/
+data/known_faces/*
+processed/data.pt
+__pycache__/
+*.pyc
+.vscode/
+!data/known_faces/.gitkeep
